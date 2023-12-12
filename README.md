@@ -7,7 +7,10 @@ Este é um aplicativo Flask simples para gerenciar treinamentos. Ele usa SQLAlch
 ## Instalação
 
 1. Clone este repositório.
-2. Instale as dependências do projeto com `pip install -r requirements.txt`.
+2. Instale as dependências do projeto com os seguintes comandos:
+    - `pip install Flask`
+    - `pip install flask_sqlalchemy`
+    - `pip install Flasgger`
 3. Execute o aplicativo com `python app.py`.
 
 ## Uso
