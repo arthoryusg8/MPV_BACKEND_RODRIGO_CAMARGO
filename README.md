@@ -29,4 +29,4 @@ Pull requests são bem-vindos. Para mudanças importantes, abra um problema prim
 
 ## Licença
 
-MIT
+Rodrigo Camargo
